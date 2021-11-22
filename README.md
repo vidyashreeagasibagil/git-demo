@@ -2,8 +2,6 @@
 
 This is the first file
 
-## Ipsum below
+## Website content
 
-abcdefghijklmnopqrstuvwxyz
-abcdefghijklmnopqrstuvwxyz
-abcdefghijklmnopqrstuvwxyz
+1.index.html
